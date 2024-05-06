@@ -1,0 +1,70 @@
+{
+    "horarios":{
+        "caption": "Horário de Laboratórios",
+        "header": [
+            "Horário de Aula",
+            "Segunda-feira",
+            "Terça-feira",
+            "Quarta-feira",
+            "Quinta-feira",
+            "Sexta-feira",
+            "Sábado"
+        ],
+        "data": [
+            [
+                "07h40 - 08h30",
+                "Cálculo",
+                "Estrutura de Dados",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Livre"
+            ],
+            [
+                "08h30 - 09h20",
+                "Cálculo",
+                "Estrutura de Dados",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Livre"
+            ],
+            [
+                "09h30 - 10h20",
+                "Cálculo",
+                "Linguagem de Programação",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Linguagem de Programação"
+            ],
+            [
+                "10h20 - 11h10",
+                "Cálculo",
+                "Linguagem de Programação",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Linguagem de Programação"
+            ],
+            [
+                "11h10 - 12h00",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Estrutura de Dados"
+            ],
+            [
+                "12h00 - 12h50",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Livre",
+                "Estrutura de Dados"
+            ]
+        ]
+    }
+}
